@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_products_products",
+  "info": {
+    "displayName": "Products",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "product": {
+      "type": "string"
+    },
+    "count": {
+      "type": "integer"
+    },
+    "unit": {
+      "type": "string"
+    }
+  }
+}
