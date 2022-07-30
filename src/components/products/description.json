@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_products_descriptions",
+  "info": {
+    "displayName": "Description",
+    "icon": "align-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "step": {
+      "type": "integer"
+    },
+    "cooking": {
+      "type": "text"
+    }
+  }
+}
