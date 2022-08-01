@@ -4,7 +4,8 @@
   "info": {
     "singularName": "user-data",
     "pluralName": "user-dates",
-    "displayName": "userData"
+    "displayName": "userData",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -21,7 +22,8 @@
     },
     "email": {
       "type": "email",
-      "required": true
+      "required": true,
+      "unique": true
     },
     "password": {
       "type": "password",
